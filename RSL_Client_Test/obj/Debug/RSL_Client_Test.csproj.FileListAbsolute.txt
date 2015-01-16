@@ -1,0 +1,4 @@
+E:\Dev_RSL\RSL_Client_Test\RSL_Client_Test\bin\Debug\RSL_Client_Test.exe
+E:\Dev_RSL\RSL_Client_Test\RSL_Client_Test\bin\Debug\RSL_Client_Test.pdb
+E:\Dev_RSL\RSL_Client_Test\RSL_Client_Test\obj\Debug\RSL_Client_Test.exe
+E:\Dev_RSL\RSL_Client_Test\RSL_Client_Test\obj\Debug\RSL_Client_Test.pdb
